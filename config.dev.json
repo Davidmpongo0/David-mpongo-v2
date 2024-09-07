@@ -18,7 +18,7 @@
   },
   "adminBot": [
     "100092277325670",
-    "100042915530869",
+    "",
     "",
     "",
     ""
@@ -36,11 +36,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "laurent bot",
+  "nickNameBot": "David bot",
   "authorName": "👑 David mpongo 👑",
   "authorFB": "https://m.me/100092277325670",
   "authorEmail": "manosmith524@gmail.com",
-  "prefix": "#",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
